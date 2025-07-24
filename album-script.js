@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Hành trình của chúng ta bắt đầu từ hôm nay. Mỗi khoảnh khắc bên nhau sẽ là một viên gạch xây nên ngôi nhà hạnh phúc. Cùng nhau, chúng ta sẽ viết nên một câu chuyện tình yêu vĩnh cửu. ❤️";
 
   const photoUrls = [
-    "img/a1.jpg", "img/a2.jpg", "img/a3.jpg", "img/a4.jpg", "img/a.jpg",
+    "img/a1.jpg", "img/a2.jpg", "img/a3.jpg", "img/a4.jpg", "img/a5.jpg",
     "img/a6.jpg", "img/a7.jpg", "img/a8.jpg", "img/a9.jpg", "img/a10.jpg",
     "img/a11.jpg", "img/a12.jpg", "img/a13.jpg", "img/a14.jpg", "img/a15.jpg",
     "img/a16.jpg", "img/a17.jpg", "img/a18.jpg", "img/a19.jpg", "img/a20.jpg",
